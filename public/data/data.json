@@ -1,0 +1,26 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "mori",
+      "age": 2
+    },
+    {
+      "id": 2,
+      "name": "zzang",
+      "age": 10
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "holly",
+      "age": 4
+    },
+    {
+      "id": 2,
+      "name": "bori",
+      "age": 8
+    }
+  ]
+}
